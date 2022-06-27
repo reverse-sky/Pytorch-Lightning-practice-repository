@@ -44,7 +44,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 ```
 from pytorch_lightning import LightningDataModule
 ```
-가 안된다. python = 3.8.10으로 해야할 것 같다. [안됨...](https://github.com/Lightning-AI/lightning/issues/12784)
+가 안되는경우가 있다. 아직  python = 3.8.10으로 해야할 것 같다. [안됨...](https://github.com/Lightning-AI/lightning/issues/12784)
 
 ### 일단 코랩에서 진행 
 ##  
